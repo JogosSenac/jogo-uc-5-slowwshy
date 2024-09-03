@@ -19,4 +19,8 @@ public class Play : MonoBehaviour
   {
     SceneManager.LoadScene("Configurações");
   }
+  public void Menu()
+  {
+    SceneManager.LoadScene("Menu");
+  }
 }
